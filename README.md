@@ -6,3 +6,6 @@ Calculates the functional diversity (following the method of Petchey & Gaston (2
 
 # trait_density_plots.R
 Creates plots showing the distribution of a trait within a community. There are two options shown here, one for creating a density plot of a continuous trait e.g. plant height, the other for discrete traits e.g. Ellenberg N
+
+# community_weighted_mean.R
+Calculates community weighted means of a trait

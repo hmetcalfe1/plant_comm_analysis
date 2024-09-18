@@ -19,7 +19,7 @@ traits <- read.csv("traits.csv")
 species_counts <- read.csv("species_counts.csv")
 
 
-# Merce trait and count data ---------------------------------------------------
+# Merge trait and count data ---------------------------------------------------
 
 count_traits <- merge(species_counts, traits, by = "species_name")
 

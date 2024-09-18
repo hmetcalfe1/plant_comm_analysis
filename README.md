@@ -9,3 +9,6 @@ Creates plots showing the distribution of a trait within a community. There are 
 
 # community_weighted_mean.R
 Calculates community weighted means of a trait
+
+# fidelity_score.R
+Calculates a fidelity score based on the relative observed species frequencies within the habitat of interest compared to other habitats (Following Chytrý, Tichý, Holt, & Botta-Dukát, 2002). Fidelity scores range from −1 to +1 with positive (negative) values indicating that the species and the habitat of interest co-occur more (less) frequently than would be expected by chance. Larger positive values indicate a greater degree of joint fidelity.
